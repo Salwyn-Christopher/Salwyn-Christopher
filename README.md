@@ -128,7 +128,7 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 If you're **hiring**, building something interesting, or just want to talk about code, I'm around. I'm actively looking for opportunities where I can contribute and grow—whether that's an internship or a full-time gig.
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Salwyn-Christopher-181717?style=for-the-badge&logo=github)](https://github.com/Salwyn-Christopher)
+![GitHub](https://img.shields.io/badge/GitHub-%40Salwyn--Christopher-181717?style=for-the-badge&logo=github)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salwyn-portfolio.vercel.app/)
 
 **Feel free to check out my repos or reach out. Always happy to chat about web dev, projects, or just swap coding war stories!** 🚀
