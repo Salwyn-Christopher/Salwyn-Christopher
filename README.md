@@ -39,6 +39,7 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 </p>
 
 <br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Salwyn-Christopher)](https://git.io/streak-stats)
 </div>
 
 ---
