@@ -39,15 +39,7 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 </p>
 
 <br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Salwyn-Christopher&show_icons=true&theme=tokyonight&hide_border=true"
-  alt=""
-/>
-
 </div>
-
-
 
 ---
 ## 🛠️ Tech Stack
