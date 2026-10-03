@@ -35,11 +35,11 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Salwyn-Christopher&theme=dark&timezone=Asia%2FKolkata&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Salwyn-Christopher)](https://git.io/streak-stats)
+
 </div>
 
 ---
